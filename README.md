@@ -1,0 +1,1 @@
+# trivu-mercadopago-checkout
